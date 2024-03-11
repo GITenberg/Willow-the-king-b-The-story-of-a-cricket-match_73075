@@ -1,0 +1,40 @@
+_repo: Willow-the-king-b-The-story-of-a-cricket-match_73075
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Davis, Lucien
+    alias: Davies, Lucien
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '47001'
+    url: http://www.gutenberg.org/2009/agents/47001
+creator:
+  author:
+    agent_name: Snaith, J. C. (John Collis)
+    alias: Snaith, John Collis
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '37216'
+    url: http://www.gutenberg.org/2009/agents/37216
+    wikipedia: https://en.wikipedia.org/wiki/John_Snaith
+description: ''
+gutenberg_issued: '2024-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73075'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hnt4fj&view=1up&seq=13&skin=2021
+pgterms:marc905: 20220625085440snaith
+pgterms:marc906: '1899'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York and Melbourne :$bWard, Locke & Co. Limited, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Willow the king : $b The story of a cricket match'
+url: http://www.gutenberg.org/ebooks/73075
